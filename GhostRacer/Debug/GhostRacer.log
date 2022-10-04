@@ -1,0 +1,9 @@
+﻿  StudentWorld.cpp
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(185,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(250,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(304,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\GhostRacer\StudentWorld.cpp(331,27): warning C4018: '<': signed/unsigned mismatch
+  GhostRacer.vcxproj -> C:\Users\Alan\Desktop\Alan\UCLA CS\CS32\GhostRacer\Debug\GhostRacer.exe
